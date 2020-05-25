@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+    font-family: sans-serif;
+    color:green;
+}
+title{
+    text-align: center;
+    font-family: sans-serif;
+    color:green;
+}
+
+li{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+a{
+    text-decoration: none;
+    color: green;
+}
